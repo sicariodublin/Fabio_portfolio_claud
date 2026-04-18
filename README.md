@@ -1,4 +1,5 @@
-## Fabio Portfolio (Static)
+# Fabio Portfolio Website
+Welcome to my personal portfolio! This is a web application built with **Angular** to showcase my background, skills, and projects as a software developer. It includes a modern UI, a responsive layout, and sections such as About Me, Projects, and Contact.
 
 Live: https://www.fabiosteyerportfolio.com/
 
@@ -13,9 +14,10 @@ Single-page portfolio built with HTML, CSS, and vanilla JavaScript. Designed to 
 
 ### Tech Stack
 
-- HTML5
-- CSS3 (CSS variables, Grid/Flexbox, responsive layout)
-- JavaScript (DOMContentLoaded animation, IntersectionObserver reveal, project list toggle)
+- HTML5 : section-based layout with anchor navigation ( #about , #skills , etc.).
+- CSS (modern) : CSS custom properties, clamp() , Grid/Flexbox, backdrop-filter , gradients, blur effects,       responsive media query ( page.html ).
+- Vanilla JS : DOMContentLoaded animation, IntersectionObserver for reveal-on-scroll, and a “show all projects” toggle ( page.html ).
+- Webhint config : .hintrc exists and explicitly ignores backdrop-filter compatibility warnings ( .hintrc ).
 
 ### Local Run
 
@@ -35,3 +37,15 @@ This repository is configured for GitHub Pages + custom domain:
 - `style.css`: styles
 - `script.js`: interactions/animations
 - `assets/screenshot.png`: project screenshot
+
+## 🧑‍💻 Author
+Fabio Steyer
+
+🇧🇷 Brazilian-born | 🇮🇪 Irish Citizen
+
+Graduate in Science in Computing (Software Development) – NCI
+
+Email: fabiost47@hotmail.com
+
+## 📄 License
+This project is open-source and available under the [MIT License](License.txt).
