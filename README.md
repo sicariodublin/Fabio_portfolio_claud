@@ -1,5 +1,5 @@
 # Fabio Portfolio Website
-Welcome to my personal portfolio! This is a web application built with **Angular** to showcase my background, skills, and projects as a software developer. It includes a modern UI, a responsive layout, and sections such as About Me, Projects, and Contact.
+Welcome to my personal portfolio! This is a single-web page application built in **HTML5 file + embedded CSS + embedded JavaScript** to showcase my background, skills, and projects as a software developer. It includes a modern UI, a responsive layout, and sections such as About Me, Projects, and Contact.
 
 Live: https://www.fabiosteyerportfolio.com/
 
