@@ -2,11 +2,10 @@
 
 Live: https://www.fabiosteyerportfolio.com/
 
-![Portfolio screenshot](./assets/screenshot_1.png)
-![Portfolio screenshot](./assets/screenshot_2.png)
-![Portfolio screenshot](./assets/screenshot_3.png)
+![Portfolio screenshot](./assets/Screenshot_1.png)
+![Portfolio screenshot](./assets/Screenshot_2.png)
+![Portfolio screenshot](./assets/Screenshot_3.png)
 
-!
 
 ### Overview
 
